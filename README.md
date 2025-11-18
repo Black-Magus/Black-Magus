@@ -123,13 +123,14 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Black-Magus" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Black-Magus&theme=tokyonight&border_radius=5&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
     </td>
         <td valign="top" width="40%">
             <img src="work.gif">
         </td>
   </tr>
 </table>
+
 
 
 
