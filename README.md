@@ -7,7 +7,7 @@
 
 <div align="right">
     
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=crimsonmanifesto.crimsonmanifesto&left_color=grey&right_color=blue)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Black-Magus.Black-Magus&left_color=grey&right_color=blue)
 </div>
 
 
@@ -124,7 +124,7 @@
   <tr>
     <td valign="top" width="60%">
       <img 
-        src="https://streak-stats.demolab.com?user=Black-Magus&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" 
+        src="https://streak-stats.demolab.com/?user=Black-Magus&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" 
         width="100%" 
         alt="streak graph"  
       />
@@ -134,6 +134,7 @@
         </td>
   </tr>
 </table>
+
 
 
 
