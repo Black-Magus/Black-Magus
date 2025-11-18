@@ -105,14 +105,14 @@
   <tr>
     <td valign="top" width="55%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=crimsonmanifesto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" 
+        src="https://github-readme-stats.vercel.app/api?username=Black-Magus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" 
         width="100%" 
         alt="stats graph"  
       />
     </td>
     <td valign="top" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=crimsonmanifesto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=20&hide=jupyter%20notebook,html,css,batchfile" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Black-Magus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=20&hide=jupyter%20notebook,html,css,batchfile" 
         width="100%" 
         alt="languages graph"  
       />
@@ -124,7 +124,7 @@
   <tr>
     <td valign="top" width="60%">
       <img 
-        src="https://streak-stats.demolab.com?user=crimsonmanifesto&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" 
+        src="https://streak-stats.demolab.com?user=Black-Magus&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" 
         width="100%" 
         alt="streak graph"  
       />
@@ -134,5 +134,6 @@
         </td>
   </tr>
 </table>
+
 
 
