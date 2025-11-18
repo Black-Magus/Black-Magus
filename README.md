@@ -103,7 +103,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="55%">
+    <td valign="top" width="50%">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=Black-Magus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" 
         width="100%" 
@@ -123,13 +123,14 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Black-Magus&theme=tokyonight&border_radius=5&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Black-Magus&theme=tokyonight&border_radius=1&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
     </td>
         <td valign="top" width="40%">
             <img src="work.gif">
         </td>
   </tr>
 </table>
+
 
 
 
