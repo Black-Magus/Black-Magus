@@ -123,17 +123,14 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <img 
-        src="https://streak-stats.demolab.com/?user=Black-Magus&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" 
-        width="100%" 
-        alt="streak graph"  
-      />
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Black-Magus" alt="GitHub Streak" /></a>
     </td>
         <td valign="top" width="40%">
             <img src="work.gif">
         </td>
   </tr>
 </table>
+
 
 
 
